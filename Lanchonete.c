@@ -51,6 +51,7 @@ int main(){
                 break;
         }
         printf("Continuar pedindo? [0]Sim   [1]Nao\nResposta: ");
+        printf("Continuar pedindo? [0]Sim   [1]Nao\nResposta: ");
         scanf("%d",&ctrl);
     }
 }
